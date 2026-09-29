@@ -1,16 +1,228 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Archibald-Lappline/Archibald-Lappline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated header -->
+<a href="https://github.com/Archibald-Lappline">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Danil%20Melnikov&fontAlignY=35&desc=Python%20Software%20Engineer%20%7C%20Backend%20%7C%20QA%20Automation&descAlignY=55&animation=fadeIn" alt="Danil Melnikov animated header"/>
+</a>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Archibald-Lappline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Python+Backend+Engineer;FastAPI+%7C+PostgreSQL+%7C+SQLAlchemy;QA+Automation+%7C+Pytest+%7C+Postman;AsyncIO+%7C+REST+APIs+%7C+Data+Pipelines;Clean+code%2C+automation+and+reliable+APIs" alt="Typing animation"/>
+</a>
+
+<br><br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Archibald-Lappline&style=for-the-badge&color=brightgreen)](https://github.com/Archibald-Lappline)
+[![GitHub followers](https://img.shields.io/github/followers/Archibald-Lappline?style=for-the-badge&logo=github)](https://github.com/Archibald-Lappline?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Archibald-Lappline?style=for-the-badge&logo=github)](https://github.com/Archibald-Lappline)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm **Danil Melnikov**, a **Python Software Engineer** focused on backend development, QA automation and data processing.
+
+I enjoy building asynchronous services, designing reliable APIs, automating repetitive workflows and turning complex data-processing tasks into maintainable software.
+
+```python
+class Developer:
+    name = "Danil Melnikov"
+    role = "Python Software Engineer"
+    focus = [
+        "Backend Development",
+        "QA Automation",
+        "Data Processing",
+        "API Engineering",
+    ]
+
+    currently_working_with = [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "SQLAlchemy",
+        "Pytest",
+        "Docker",
+        "Linux",
+    ]
+
+    mindset = "Build it. Test it. Automate it. Improve it."
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend & Python
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,docker,linux,bash" alt="Backend technologies"/>
+</p>
+
+**Python · AsyncIO · FastAPI · REST APIs · SQLAlchemy · Pydantic · JWT · PostgreSQL · Docker · Linux · Bash**
+
+### QA & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytest,postman,git,github" alt="QA and automation technologies"/>
+</p>
+
+**Pytest · API Testing · Integration Testing · Data Validation · Postman · Debugging · CI/CD**
+
+### Data & Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,ts,js,html,css,vue,vite" alt="Data and frontend technologies"/>
+</p>
+
+**Pandas · NumPy · Scikit-Learn · Feature Engineering · Data Pipelines · TypeScript · JavaScript · Vue.js 3 · Vite**
+
+---
+
+## 🚀 Featured Engineering Work
+
+### ⚡ Asynchronous Backend API
+
+**FastAPI · PostgreSQL · SQLAlchemy · Pydantic · JWT**
+
+- Built an asynchronous REST API with FastAPI.
+- Implemented registration, authentication and authorization using JWT.
+- Designed validation logic for malformed input and edge cases.
+- Used Pydantic schemas to keep API contracts explicit and reliable.
+- Tested and documented endpoints through Swagger UI and Postman.
+- Structured database access through SQLAlchemy ORM.
+
+### 📊 Data Processing & Automation
+
+**Python · PostgreSQL · Pandas · NumPy · Scikit-Learn**
+
+- Developed Python services and scripts for automated enterprise data processing.
+- Designed complex PostgreSQL queries and optimized database interactions.
+- Built automated data-ingestion and calculation workflows.
+- Implemented feature engineering and data-validation routines.
+- Worked with Regression and Gradient Boosting models.
+- Focused on reliability, reproducibility and maintainable processing pipelines.
+
+### 🌐 Full-Stack Web Application
+
+**FastAPI · Vue.js 3 · Vite · REST · Axios · JWT**
+
+- Developed a modular SPA connected to an asynchronous FastAPI backend.
+- Implemented JWT-based client authentication.
+- Added dynamic state rendering and API data fetching.
+- Integrated frontend and backend through a REST interface.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Archibald-Lappline">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Archibald-Lappline&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Archibald-Lappline">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archibald-Lappline&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
+</a>
+
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Archibald-Lappline&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</a>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<a href="https://github.com/Archibald-Lappline">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Archibald-Lappline&hide_border=true&theme=github-compact" alt="GitHub activity graph"/>
+</a>
+
+</div>
+
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Archibald-Lappline&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+---
+
+## 🧪 Engineering Principles
+
+```text
+              ┌──────────────────────────────┐
+              │        WRITE THE CODE        │
+              └──────────────┬───────────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      VALIDATE IT      │
+                 │  Pydantic / Pytest   │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      TEST THE API     │
+                 │    Postman / Swagger │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      AUTOMATE IT      │
+                 │     Async / CI/CD     │
+                 └───────────┬───────────┘
+                             │
+                             ▼
+                 ┌───────────────────────┐
+                 │      IMPROVE IT       │
+                 │ Clean code / Perf     │
+                 └───────────────────────┘
+```
+
+---
+
+## 🎓 Education
+
+**Diploma in Information Systems & Programming**  
+Multidisciplinary College at Nosov Magnitogorsk State Technical University (NMSTU)
+
+**Yandex Lyceum — Data Analysis & AI Systems · 2024**  
+144-hour intensive program focused on Python for AI, neural-network bot development and automated data processing.
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:arigirekash@gmail.com">
+  <img src="https://img.shields.io/badge/Email-arigirekash%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Code. Test. Automate. Repeat.
+
+<a href="https://github.com/Archibald-Lappline">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories.;Open+to+interesting+engineering+challenges." alt="Footer typing animation"/>
+</a>
+
+</div>
